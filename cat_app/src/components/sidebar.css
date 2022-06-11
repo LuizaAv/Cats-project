@@ -1,0 +1,18 @@
+ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+}
+
+item{
+    margin-left: 50px;
+}
+.navbar{
+    height: 30px;
+    width: 100px;
+    background-color: blueviolet;
+    outline: none;
+    border: 0px;
+    border-radius: 8px;
+    margin-left: 10px;
+}
